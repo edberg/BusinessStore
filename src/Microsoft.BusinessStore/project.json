@@ -2,17 +2,16 @@
   "version": "1.0.0-*",
   "description": "Core logic for the dotnet-ig command line tool.",
   "packOptions": {
-    "owners": [ "edberg" ],
+    "title": "Microsoft Store for Business",
+    "summary": "Microsoft Store for Business Client",
+    "projectUrl": "https://github.com/edberg/businessstore",
+    "copyright": "Copyright © Rasmus Oudal Edberg 2016",
+    "tags": [ "Microsoft", "Store", "Business" ],
     "repository": {
       "type": "git",
       "url": "https://github.com/edberg/businessstore"
-    },
-    "summary": "Microsoft Store for Business",
-    "tags": [
-      "Microsoft",
-      "Store",
-      "Business"
-    ]
+    }
+
   },
   "buildOptions": {
     "warningsAsErrors": true,
