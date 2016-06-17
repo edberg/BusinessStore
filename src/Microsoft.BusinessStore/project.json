@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.0.0-*",
+  "version": "1.0.0-rc2-*",
   "description": "Core logic for the dotnet-ig command line tool.",
   "packOptions": {
     "title": "Microsoft Store for Business",
